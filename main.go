@@ -4,7 +4,8 @@ import (
 	"flag"
 	"os"
 
-	"github.com/transcendlabs/wordchain-go/word_chain"
+	//"github.com/transcendlabs/wordchain-go/word_chain"
+	"github.com/ror-shubham/wordChain-go/word_chain"
 	"github.com/tendermint/abci/server"
 	"github.com/tendermint/abci/types"
 	cmn "github.com/tendermint/tmlibs/common"
